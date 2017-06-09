@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6839003E-9627-4B41-92AF-05BF9F6E7058}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dshboard/index.html">
+    <Files>
+      <File FileName="Dshboard/index.html" Line="73" Column="8" />
+      <File FileName="Dshboard/App/Views/summaryController.js" Line="5" Column="1" />
+      <File FileName="Dshboard/App/Views/summaryView.html" Line="1" Column="1" />
+      <File FileName="Dshboard/App/app.js" Line="12" Column="26" />
+      <File FileName="Dshboard/App/Views/productionView.html" Line="2" Column="36" />
+      <File FileName="Dshboard/App/Views/productionController.js" Line="4" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dshboard" expanded="True">
+            <Node name="Dshboard" expanded="True">
+              <Node name="App" expanded="True">
+                <Node name="Views" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/vipingupta/Projects/Dshboard/Dshboard/index.html" relfile="Dshboard/index.html" line="37" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Dshboard PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

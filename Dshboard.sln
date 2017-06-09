@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dshboard", "Dshboard\Dshboard.csproj", "{6839003E-9627-4B41-92AF-05BF9F6E7058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dshboard.Tests", "Dshboard.Tests\Dshboard.Tests.csproj", "{4D525F17-706D-486B-943C-FB4D9862D3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6839003E-9627-4B41-92AF-05BF9F6E7058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6839003E-9627-4B41-92AF-05BF9F6E7058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6839003E-9627-4B41-92AF-05BF9F6E7058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6839003E-9627-4B41-92AF-05BF9F6E7058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D525F17-706D-486B-943C-FB4D9862D3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D525F17-706D-486B-943C-FB4D9862D3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D525F17-706D-486B-943C-FB4D9862D3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D525F17-706D-486B-943C-FB4D9862D3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

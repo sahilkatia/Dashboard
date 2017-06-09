@@ -1,0 +1,14 @@
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/Dshboard.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/Dshboard.pdb
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/Newtonsoft.Json.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Net.Http.Formatting.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Web.Http.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Web.Http.WebHost.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Net.Http.Formatting.xml
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Web.Http.xml
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/System.Web.Http.WebHost.xml
+/Users/vipingupta/Projects/Dshboard/Dshboard/bin/Newtonsoft.Json.xml
+/Users/vipingupta/Projects/Dshboard/Dshboard/obj/Debug/Dshboard.csprojResolveAssemblyReference.cache
+/Users/vipingupta/Projects/Dshboard/Dshboard/obj/Debug/Dshboard.csproj.CoreCompileInputs.cache
+/Users/vipingupta/Projects/Dshboard/Dshboard/obj/Debug/Dshboard.dll
+/Users/vipingupta/Projects/Dshboard/Dshboard/obj/Debug/Dshboard.pdb
